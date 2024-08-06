@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["descriptive","related","words"],
-  "author": "",
+  "author": "Jane Doe",
   "license": "MIT",
   "description": "a project that does something awesome :)"
 }
